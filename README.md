@@ -1,3 +1,1 @@
-# config-upstream
-
-This is the upstream
+# config-midstream
